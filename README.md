@@ -4,7 +4,7 @@ Export the Switch job ticket for debugging. Useful if processing files through m
 ## Example
 <img src="https://i.imgur.com/8Mk2e0C.png" width="600">
 
-### Output
+### Log output
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <JobTicket>
